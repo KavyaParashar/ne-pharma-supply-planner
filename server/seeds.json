@@ -1,0 +1,148 @@
+{
+ "_source": "Fictional seed data for NESFIC-I-09 prototype (60 generic medicines, 40 NE districts, regional festivals).",
+ "skus": {
+  "columns": [
+   "generic_name",
+   "dosage_form",
+   "therapeutic_class",
+   "season_profile",
+   "velocity",
+   "mrp_inr",
+   "shelf_life_months"
+  ],
+  "rows": [
+   "Paracetamol 500mg,tablet,analgesic,winter,fast,22,36",
+   "Paracetamol 125mg/5ml,syrup,analgesic,winter,fast,38,24",
+   "Ibuprofen 400mg,tablet,analgesic,flat,fast,28,36",
+   "Ibuprofen 100mg/5ml,suspension,analgesic,winter,med,45,24",
+   "Diclofenac 50mg,tablet,analgesic,flat,med,25,36",
+   "Amoxicillin 500mg,capsule,antibiotic,winter,fast,85,24",
+   "Amoxicillin 125mg/5ml,suspension,antibiotic,winter,med,62,18",
+   "Azithromycin 500mg,tablet,antibiotic,winter,fast,110,24",
+   "Azithromycin 200mg/5ml,suspension,antibiotic,winter,med,78,18",
+   "Cefixime 200mg,tablet,antibiotic,monsoon,med,105,24",
+   "Cefixime 100mg/5ml,suspension,antibiotic,monsoon,med,88,18",
+   "Ciprofloxacin 500mg,tablet,antibiotic,monsoon,med,48,36",
+   "Doxycycline 100mg,capsule,antibiotic,monsoon,med,42,36",
+   "Metronidazole 400mg,tablet,antiinfective,monsoon,fast,18,36",
+   "Metronidazole 200mg/5ml,suspension,antiinfective,monsoon,med,36,18",
+   "Zinc sulphate 20mg,tablet,antidiarrhoeal,monsoon,fast,15,24",
+   "Ondansetron 4mg,tablet,antiemetic,monsoon,med,32,24",
+   "Ondansetron 2mg/5ml,syrup,antiemetic,monsoon,med,40,18",
+   "Domperidone 1mg/ml,suspension,antiemetic,monsoon,med,35,18",
+   "Chloroquine 250mg,tablet,antimalarial,monsoon,med,20,36",
+   "Artemether-Lumefantrine 80/480mg,tablet,antimalarial,monsoon,med,140,24",
+   "Primaquine 7.5mg,tablet,antimalarial,monsoon,slow,30,36",
+   "Albendazole 400mg,tablet,anthelmintic,flat,med,12,36",
+   "Albendazole 200mg/5ml,suspension,anthelmintic,flat,slow,22,24",
+   "Cetirizine 10mg,tablet,antihistamine,winter,fast,16,36",
+   "Cetirizine 5mg/5ml,syrup,antihistamine,winter,med,34,24",
+   "Dextromethorphan 10mg/5ml,syrup,cough,winter,fast,72,24",
+   "Salbutamol 4mg,tablet,respiratory,winter,med,14,36",
+   "Salbutamol 2mg/5ml,syrup,respiratory,winter,med,30,24",
+   "Montelukast 10mg,tablet,respiratory,winter,med,95,24",
+   "Metformin 500mg,tablet,diabetes,flat,fast,20,36",
+   "Glimepiride 1mg,tablet,diabetes,flat,fast,45,36",
+   "Amlodipine 5mg,tablet,cardio,flat,fast,24,36",
+   "Telmisartan 40mg,tablet,cardio,flat,fast,58,36",
+   "Losartan 50mg,tablet,cardio,flat,med,48,36",
+   "Enalapril 5mg,tablet,cardio,flat,med,26,36",
+   "Atorvastatin 10mg,tablet,cardio,flat,fast,65,36",
+   "Metoprolol 50mg,tablet,cardio,flat,med,38,36",
+   "Clopidogrel 75mg,tablet,cardio,flat,med,70,24",
+   "Omeprazole 20mg,capsule,gastro,flat,fast,30,24",
+   "Pantoprazole 40mg,tablet,gastro,flat,fast,55,24",
+   "Famotidine 20mg,tablet,gastro,flat,med,22,36",
+   "Lactulose 10g/15ml,syrup,gastro,flat,slow,160,24",
+   "Levothyroxine 50mcg,tablet,endocrine,flat,med,90,24",
+   "Prednisolone 5mg,tablet,steroid,flat,med,12,36",
+   "Fluconazole 150mg,tablet,antifungal,monsoon,med,28,36",
+   "Aciclovir 400mg,tablet,antiviral,flat,slow,65,36",
+   "Ferrous sulphate+Folic acid,tablet,nutrition,flat,fast,10,24",
+   "Calcium+Vitamin D3,tablet,nutrition,flat,med,60,24",
+   "Multivitamin,syrup,nutrition,flat,med,85,18",
+   "Sodium valproate 200mg/5ml,syrup,neuro,flat,slow,180,24",
+   "Phenytoin 30mg/5ml,suspension,neuro,flat,slow,95,24",
+   "Carbamazepine 200mg,tablet,neuro,flat,slow,40,36",
+   "Haloperidol 5mg,tablet,neuro,flat,slow,35,36",
+   "Furosemide 40mg,tablet,cardio,flat,med,10,36",
+   "Spironolactone 25mg,tablet,cardio,flat,slow,30,36",
+   "Hydroxychloroquine 200mg,tablet,rheum,flat,slow,120,36",
+   "Ofloxacin 50mg/5ml,suspension,antibiotic,monsoon,slow,52,18",
+   "Povidone iodine 5%,solution,antiseptic,monsoon,med,65,24",
+   "Oral rehydration salts,sachet,antidiarrhoeal,monsoon,fast,21,24"
+  ]
+ },
+ "geo": {
+  "Assam": [
+   "Kamrup Metro",
+   "Kamrup",
+   "Nagaon",
+   "Jorhat",
+   "Dibrugarh",
+   "Tinsukia",
+   "Sonitpur",
+   "Cachar",
+   "Barpeta",
+   "Golaghat",
+   "Lakhimpur",
+   "Dhubri",
+   "Bongaigaon",
+   "Karbi Anglong",
+   "Dima Hasao",
+   "Sivasagar"
+  ],
+  "Meghalaya": [
+   "East Khasi Hills",
+   "West Garo Hills",
+   "West Jaintia Hills",
+   "Ri-Bhoi"
+  ],
+  "Arunachal Pradesh": [
+   "Papum Pare",
+   "East Siang",
+   "Lohit",
+   "Tawang"
+  ],
+  "Nagaland": [
+   "Kohima",
+   "Dimapur",
+   "Mokokchung",
+   "Tuensang"
+  ],
+  "Manipur": [
+   "Imphal West",
+   "Imphal East",
+   "Churachandpur",
+   "Ukhrul"
+  ],
+  "Mizoram": [
+   "Aizawl",
+   "Lunglei",
+   "Champhai"
+  ],
+  "Tripura": [
+   "West Tripura",
+   "Gomati",
+   "Dhalai",
+   "North Tripura"
+  ],
+  "Sikkim": [
+   "East Sikkim"
+  ]
+ },
+ "festivals": {
+  "2024-12-25": "Christmas",
+  "2025-01-14": "Magh Bihu",
+  "2025-04-14": "Bohag Bihu",
+  "2025-09-29": "Durga Puja",
+  "2025-10-20": "Diwali",
+  "2025-12-25": "Christmas",
+  "2026-01-14": "Magh Bihu",
+  "2026-04-14": "Bohag Bihu",
+  "2026-10-17": "Durga Puja",
+  "2026-11-08": "Diwali",
+  "2026-12-25": "Christmas",
+  "2027-01-14": "Magh Bihu"
+ }
+}

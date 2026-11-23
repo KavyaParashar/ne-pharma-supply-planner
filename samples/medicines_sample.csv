@@ -1,0 +1,5 @@
+sku_id,name,form,category,mrp,case_pack,shelf_life_months
+SKU061,Cetirizine 10mg,tablet,antihistamine,18,100,36
+SKU062,Ondansetron 4mg,tablet,gastro,32,100,24
+SKU001,Paracetamol 500mg,tablet,analgesic,22,100,36
+SKU063,Vitamin D3 60k,capsule,supplement,abc,50,24
